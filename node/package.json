@@ -1,0 +1,30 @@
+{
+  "name": "node-mysql-connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarolivares/node-mysql-faztweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarolivares/node-mysql-faztweb/issues"
+  },
+  "homepage": "https://github.com/oscarolivares/node-mysql-faztweb#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "nodemon": "^2.0.4"
+  }
+}

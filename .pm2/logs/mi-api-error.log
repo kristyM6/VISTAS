@@ -1,0 +1,3706 @@
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Failed to lookup view "views/views" in views directory "/root/node/src/app/views"
+    at Function.render (/root/node/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/views.js:11:12)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Query._callback (/root/node/node_modules/mysql/lib/Connection.js:488:16)
+    at Query.Sequence.end (/root/node/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Query._handleFinalResultPacket (/root/node/node_modules/mysql/lib/protocol/sequences/Query.js:149:8)
+    at Query.EofPacket (/root/node/node_modules/mysql/lib/protocol/sequences/Query.js:133:8)
+    at Protocol._parsePacket (/root/node/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/root/node/node_modules/mysql/lib/protocol/Parser.js:433:10)
+Error: Failed to lookup view "views/views" in views directory "/root/node/src/app/views"
+    at Function.render (/root/node/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/views.js:11:12)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Query._callback (/root/node/node_modules/mysql/lib/Connection.js:488:16)
+    at Query.Sequence.end (/root/node/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Query._handleFinalResultPacket (/root/node/node_modules/mysql/lib/protocol/sequences/Query.js:149:8)
+    at Query.EofPacket (/root/node/node_modules/mysql/lib/protocol/sequences/Query.js:133:8)
+    at Protocol._parsePacket (/root/node/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/root/node/node_modules/mysql/lib/protocol/Parser.js:433:10)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+TypeError: /root/node/src/app/views/views/view1.ejs:26
+    24|             <th>Cantidad de ingresos</th>
+    25|           </tr>
+ >> 26|           <% for (var i = 0; i < view1.length; i ++) { %>
+    27|           <tr>
+    28|             <td><%- view1[i].Nombre_Usuario %></td>
+    29|             <td><%- view1[i].Ultima_fecha_Ingreso %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view1.ejs:15:34)
+    at view1 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view1.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view2.ejs:26
+    24|             <th>Cantidad de Usuarios</th>
+    25|           </tr>
+ >> 26|           <% for (var i = 0; i < view2.length; i ++) { %>
+    27|           <tr>
+    28|             <td><%- view2[i].Nombre_Cancion %></td>
+    29|             <td><%- view2[i].Nombre_Disco %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view2.ejs:15:34)
+    at view2 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view2.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/root/node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/root/node/src/index.js:9:5)
+    at Module._compile (internal/modules/cjs/loader.js:1200:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1220:10)
+    at Module.load (internal/modules/cjs/loader.js:1049:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:937:14)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:32:23) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+TypeError: /root/node/src/app/views/views/view3.ejs:27
+    25|             <th>Permisos</th>
+    26|           </tr>
+ >> 27|           <% for (var i = 0; i < view3.length; i ++) { %>
+    28|           <tr>
+    29|             <td><%- view3[i].Id_Usuario %></td>
+    30|             <td><%- view3[i].Nombre_Usuario %></td>
+
+Cannot read property 'length' of undefined
+    at eval (/root/node/src/app/views/views/view3.ejs:15:34)
+    at view3 (/root/node/node_modules/ejs/lib/ejs.js:682:17)
+    at tryHandleCache (/root/node/node_modules/ejs/lib/ejs.js:254:36)
+    at View.exports.renderFile [as engine] (/root/node/node_modules/ejs/lib/ejs.js:485:10)
+    at View.render (/root/node/node_modules/express/lib/view.js:135:8)
+    at tryRender (/root/node/node_modules/express/lib/application.js:640:10)
+    at Function.render (/root/node/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/root/node/node_modules/express/lib/response.js:1012:7)
+    at Query.<anonymous> (/root/node/src/app/routes/view3.js:9:11)
+    at Query.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/root/node/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/root/node/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}

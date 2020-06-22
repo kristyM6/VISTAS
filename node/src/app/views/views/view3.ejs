@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Vistas</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+      integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <%- include('../home/vistas.ejs') %>
+
+    <div class="row">
+      <div class="col-md-6 mt-4 text-center">
+        <table class="table table-striped table-bordered">
+          <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Fecha Nacimiento</th>
+            <th>Rol</th>
+            <th>Permisos</th>
+          </tr>
+          <% for (var i = 0; i < view3.length; i ++) { %>
+          <tr>
+            <td><%- view3[i].Id_Usuario %></td>
+            <td><%- view3[i].Nombre_Usuario %></td>
+            <td><%- view3[i].Apellido_Usuario %></td>
+            <td><%- view3[i].fecha_Nacimiento %></td>
+            <td><%- view3[i].RolDeUsuario %></td>
+            <td><%- view3[i].Permisos %></td>
+          </tr>
+          <% } %>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>
